@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.newtechieblog.wordpress.views.firebasedemo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.newtechieblog.wordpress.views.firebasedemo"
