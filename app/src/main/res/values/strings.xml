@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Firebase Demo</string>
 
-    <string name="editText_hint">Please enter your name</string>
-    <string name="button_text">Send Data to Firebase</string>
+    <string name="editText_hint">Enter your email</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign up</string>
+    <string name="main_menu">Main Menu</string>
 </resources>
