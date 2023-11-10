@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "293274056164",
+    "firebase_url": "https://fir-demo-2c1b8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-demo-2c1b8",
+    "storage_bucket": "fir-demo-2c1b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293274056164:android:d89daaaad35581145f03f1",
+        "android_client_info": {
+          "package_name": "com.newtechieblog.wordpress.views.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAci7rIS1k91MpTKmG1KxB27Rd4icJ8rD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
